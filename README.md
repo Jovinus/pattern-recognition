@@ -4,7 +4,7 @@
 2.3 Introduction to R ==> [Crash course on Python and Jupyter notebook](lab2.ipynb)
 
 3.6 Linear regression
-   * [Linear regression using statmodels](lab3.ipynb)
+   * [Linear regression using statsmodels](lab3.ipynb)
    * [Linear regression using scikit-learn](lab3-sklearn.ipynb)   
 
 4.6 Logistic Regression, LDA, QDA, and KNN
