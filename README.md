@@ -40,4 +40,17 @@
     ```
     git clone git@github.com:ys7yoo/pattern-recognition.git
     ```
+  * You can 'pull' the latest version to your local repository by typing
+    ```
+    git pull
+    ```
+  * If you forked this repository and want to get the updated version, follow tips [here](https://stackoverflow.com/questions/26757353/re-fork-a-repository-on-github)
+    ```
+    git remote add upstream <address of the repository you cloned from>
+    git fetch upstream
+    git rebase upstream/master
+    ```
+    
+    
+  clone this repository by typing
 
