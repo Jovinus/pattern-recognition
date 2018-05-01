@@ -8,6 +8,7 @@
    * [Linear regression using scikit-learn](lab3-sklearn.ipynb)   
 
 4.6 Logistic Regression, LDA, QDA, and KNN
+   * [Logistic Regression, LDA, QDA, and KNN](lab4.ipynb)   
 
 5.3 Cross-Validation and the Bootstrap
 
