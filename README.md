@@ -4,11 +4,11 @@
 2.3 Introduction to R ==> [Crash course on Python and Jupyter notebook](lab2.ipynb)
 
 3.6 Linear regression
-   * [Linear regression using statsmodels](lab3.ipynb)
-   * [Linear regression using scikit-learn](lab3-sklearn.ipynb)   
+   * [Lab 3. Linear regression using statsmodels](lab3.ipynb)
+   * [Lab 3. Linear regression using scikit-learn](lab3-sklearn.ipynb)   
 
 4.6 Logistic Regression, LDA, QDA, and KNN
-   * [Logistic Regression, LDA, QDA, and KNN](lab4.ipynb)   
+   * [Lab 4](lab4.ipynb)   
 
 5.3 Cross-Validation and the Bootstrap
 
