@@ -47,7 +47,7 @@
     ```
   * If you forked this repository and want to get the updated version, follow tips [here](https://stackoverflow.com/questions/26757353/re-fork-a-repository-on-github).
     ```
-    git remote add upstream git@github.com:ys7yoo/pattern-recognition.git
+    git remote add upstream https://github.com/ys7yoo/pattern-recognition.git
     git fetch upstream
     git rebase upstream/master
     ```
