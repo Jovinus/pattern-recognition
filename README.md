@@ -39,7 +39,7 @@
   
   * You can clone this repository by typing
     ```
-    git clone git@github.com:ys7yoo/pattern-recognition.git
+    git clone https://github.com/ys7yoo/pattern-recognition.git
     ```
   * You can 'pull' the latest version to your local repository by typing
     ```
