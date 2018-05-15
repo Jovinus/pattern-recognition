@@ -8,10 +8,10 @@
    * [Lab 3. Linear regression using scikit-learn](lab3-sklearn.ipynb)   
 
 4.6 Logistic Regression, LDA, QDA, and KNN
-   * [Lab 4](lab4.ipynb)   
+   * [Lab 4. Classification](lab4.ipynb)   
 
 5.3 Cross-Validation and the Bootstrap
-
+   * [Lab 5. Resampling methods](lab5.ipynb)
 
 6.5 Lab 1: Subset Selection Methods
 
