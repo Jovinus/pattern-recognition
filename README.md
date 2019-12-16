@@ -19,12 +19,9 @@
 
 6.7 Lab 3: PCR and PLS Regression
 
-
 7.8 Non-linear Modeling
 
-
 8.3 Lab: Decision Trees
-
 
 9.6 Support Vector Machines
 
